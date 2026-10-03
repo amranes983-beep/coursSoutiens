@@ -1,3 +1,23 @@
+body {
+  background-color: gray;
+  font-family: Arial, sans-serif;
+}
+
 h1 {
-    color: green;
+  color: blue;
+}
+
+.btn-contact {
+  display: inline-block;
+  background-color: blue;
+  color: white;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 8px;
+  font-weight: bold;
+  margin: 10px 0;
+}
+
+.btn-contact:hover {
+  background-color: darkblue;
 }
